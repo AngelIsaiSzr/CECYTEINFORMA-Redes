@@ -675,10 +675,19 @@ a:hover {
 /* Mobile (Portrait) */
 
 @media screen and (max-width: 480px) {
-
 	/* Header */
 	#header nav {
 		padding: 0 1em;
 		font-size: 0.9em;
+	}
+}
+
+/* Mini Mobile */
+
+@media screen and (max-width: 360px) {
+	/* Header */
+	#header nav {
+		padding: 0 1em;
+		font-size: 0.8em;
 	}
 }
