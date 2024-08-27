@@ -679,5 +679,6 @@ a:hover {
 	/* Header */
 	#header nav {
 		padding: 0 1em;
+		font-size: 0.9em;
 	}
 }
